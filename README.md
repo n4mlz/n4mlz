@@ -1,5 +1,4 @@
 # Welcome to my profile!
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nameless-itf23&theme=onedark)
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Nameless-itf23&theme=dracula" /><br/>
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Nameless-itf23&theme=dracula&hide_border=false" /><br/>
 <p align="left"> 
