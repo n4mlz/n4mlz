@@ -1,4 +1,4 @@
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username={Nameless-itf23}&layout=compact)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless-itf23&layout=compact)]
 (https://github.com/anuraghazra/github-readme-stats)
 
 <!---
