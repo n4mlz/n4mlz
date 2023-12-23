@@ -4,8 +4,8 @@
 <img alt="github Profile Summary Cards" width="98.3%" align=center src="https://github-readme-streak-stats.herokuapp.com/?user=Nameless-itf23&theme=dracula&hide_border=false" /><br/>
 
 <p align="left"> 
-  <img alt="Top Langs" width="43.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless-itf23&layout=compact&count_private=true&show_icons=true&theme=dracula" />
-  <img alt="github stats" width="54.6%" src="https://github-readme-stats.vercel.app/api?username=Nameless-itf23&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
+  <img alt="Top Langs" width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nameless-itf23&layout=compact&count_private=true&show_icons=true&theme=dracula&langs_count=10" />
+  <img alt="github stats" width="61%" src="https://github-readme-stats.vercel.app/api?username=Nameless-itf23&count_private=true&show_icons=true&show_icons=true&theme=dracula" />
 </p>
 
 # 🏆 GitHub Trophies
